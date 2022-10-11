@@ -22,6 +22,6 @@ public class MainActivity extends AppCompatActivity {
     }
     public void newButton (View view){
         TextView txtHello = findViewById(R.id.txtMessage);
-        txtHello.setText("Welcome home");
+        txtHello.setText("Welcome to hostel");
     }
 }
